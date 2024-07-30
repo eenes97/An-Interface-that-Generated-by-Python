@@ -1,0 +1,1 @@
+Please generate an account and obtain client id and secret id on Sentinel Hub before use of this interface. Because part of client id and secret id on python program is empty and if you try to run this interface without filling these parts correctly, you will get error from interface.
